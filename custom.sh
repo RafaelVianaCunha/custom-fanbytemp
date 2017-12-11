@@ -9,5 +9,6 @@
 # sudo php /path/to/my/script.php
 
 /home/ethos/custom-fanbytemp.sh
+sudo putconf && ethos-overclock
 
 exit 0
