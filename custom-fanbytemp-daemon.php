@@ -20,7 +20,7 @@ declare(ticks=1);
 
 // Init constants
 const FAN_COMMAND = 'fan';
-const CUR_WORKER = 'c94e13';
+const CUR_WORKER = '4b751b';
 const GLOBAL_FAN_COMMAND = 'globalfan';
 const GLOBAL_FAN_DEFAULT = 85;
 const CR = "\n";
