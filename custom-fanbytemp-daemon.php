@@ -139,10 +139,10 @@ function fan_percent($temp)
         return round($temp + 5);
     }
 	
-    if ($temp >= 80 && $temp < 90) {
-        return round($temp + 6);
+    if ($temp >= 80 && $temp < 81) {
+        return 90;
     }
-    //$temp>=90
+    //$temp>=81
     return 100;
 }
 
